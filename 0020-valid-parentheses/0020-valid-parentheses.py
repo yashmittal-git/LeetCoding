@@ -1,23 +1,21 @@
 class Solution:
-    def getClosingParenthesis(char):
-        if char == '(':
-            return ')'
-        elif char == '{':
-            return '}'
-        elif char == '[':
-            return ']'
-
     def isValid(self, s: str) -> bool:
         stack = []
+        combinations = {
+            ")":"(",
+            "}":"{",
+            "]":"["
+        }
+
         for char in s:
-            if char == '(' or char == '{' or char == '[' :
+            if char in ["{","[","("]:
                 stack.append(char)
             else:
-                if not len(stack) or char != Solution.getClosingParenthesis(stack[-1]):
+                if len(stack) == 0 or combinations[char] != stack.pop():
                     return False
-                else:
-                    stack.pop()
-        if not len(stack):
+        
+        if len(stack) == 0:
             return True
+        
         return False
-
+        

@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashmittal-git/LeetCoding/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/yashmittal-git/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/yashmittal-git/LeetCoding/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/yashmittal-git/LeetCoding/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/yashmittal-git/LeetCoding/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

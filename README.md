@@ -14,12 +14,14 @@
 | [0001-two-sum](https://github.com/yashmittal-git/LeetCoding/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/yashmittal-git/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/yashmittal-git/LeetCoding/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/yashmittal-git/LeetCoding/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashmittal-git/LeetCoding/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/yashmittal-git/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/yashmittal-git/LeetCoding/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/yashmittal-git/LeetCoding/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/yashmittal-git/LeetCoding/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->

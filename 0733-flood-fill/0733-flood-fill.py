@@ -1,18 +1,18 @@
 class Solution:
-
-    startColor: int
-
-    def fill4D(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
-        if sr < 0 or sc < 0 or sr == len(image) or sc == len(image[0]) or image[sr][sc] == color or image[sr][sc] != self.startColor:
+    def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
+        if image[sr][sc] == color:
             return image
         
+        currentColor = image[sr][sc]
         image[sr][sc] = color
-        image = self.fill4D(image,sr+1,sc,color)
-        image = self.fill4D(image,sr,sc+1,color)
-        image = self.fill4D(image,sr-1,sc,color)
-        image = self.fill4D(image,sr,sc-1,color)
+        if sc != len(image[0]) - 1 and image[sr][sc+1] == currentColor:
+            self.floodFill(image, sr, sc+1, color)
+        if sr!= len(image) - 1 and image[sr+1][sc] == currentColor:
+            self.floodFill(image, sr+1, sc, color)
+        if sc!=0 and image[sr][sc-1] == currentColor:
+            self.floodFill(image, sr, sc-1, color)
+        if sr!=0 and image[sr-1][sc] == currentColor:
+            self.floodFill(image, sr-1, sc, color)
+        
         return image
-
-    def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
-        self.startColor = image[sr][sc]
-        return self.fill4D(image,sr,sc,color)
+        

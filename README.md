@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yashmittal-git/LeetCoding/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashmittal-git/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0704-binary-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

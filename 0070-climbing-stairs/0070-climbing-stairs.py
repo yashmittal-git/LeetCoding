@@ -1,11 +1,12 @@
 class Solution:
-
-    def fib(self, n:int) -> int:
-        series = [1] * (n+1)
-        for i in range(2,n+1):
-            series[i] = series[i-1] + series[i-2]
-        
-        return series[n]
-
     def climbStairs(self, n: int) -> int:
-        return self.fib(n)
+        if n < 2:
+            return n
+        steps = [0]*n
+        steps[0] = 1
+        steps[1] = 2
+        for i in range(2,n):
+            steps[i] = steps[i-1]+steps[i-2]
+        
+        return steps[n-1]
+        

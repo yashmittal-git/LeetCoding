@@ -79,6 +79,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/yashmittal-git/LeetCoding/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0704-binary-search) |
 ## Binary Search Tree
 |  |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/yashmittal-git/LeetCoding/tree/master/0383-ransom-note) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/yashmittal-git/LeetCoding/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

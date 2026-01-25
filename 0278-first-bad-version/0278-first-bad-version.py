@@ -9,7 +9,6 @@ class Solution:
 
         while(i<j):
             mid = int(i - (i-j)/2)
-            print(mid+1)
             if isBadVersion(mid+1) == True:
                 j = mid
             else:

@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yashmittal-git/LeetCoding/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashmittal-git/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/yashmittal-git/LeetCoding/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -13,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yashmittal-git/LeetCoding/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/yashmittal-git/LeetCoding/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/yashmittal-git/LeetCoding/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yashmittal-git/LeetCoding/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/yashmittal-git/LeetCoding/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/yashmittal-git/LeetCoding/tree/master/0409-longest-palindrome) |
@@ -45,6 +47,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yashmittal-git/LeetCoding/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yashmittal-git/LeetCoding/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -94,6 +97,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yashmittal-git/LeetCoding/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/yashmittal-git/LeetCoding/tree/master/0383-ransom-note) |
 ## Interactive
 |  |
@@ -111,4 +115,8 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/yashmittal-git/LeetCoding/tree/master/0409-longest-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yashmittal-git/LeetCoding/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

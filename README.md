@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashmittal-git/LeetCoding/tree/master/0001-two-sum) |
+| [0057-insert-interval](https://github.com/yashmittal-git/LeetCoding/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashmittal-git/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/yashmittal-git/LeetCoding/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0704-binary-search) |

@@ -9,6 +9,7 @@
 | [0057-insert-interval](https://github.com/yashmittal-git/LeetCoding/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashmittal-git/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/yashmittal-git/LeetCoding/tree/master/0169-majority-element) |
+| [0542-01-matrix](https://github.com/yashmittal-git/LeetCoding/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -53,6 +54,7 @@
 | [0053-maximum-subarray](https://github.com/yashmittal-git/LeetCoding/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/yashmittal-git/LeetCoding/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashmittal-git/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/yashmittal-git/LeetCoding/tree/master/0542-01-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/yashmittal-git/LeetCoding/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -93,6 +96,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/yashmittal-git/LeetCoding/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
 ## Binary Search
 |  |

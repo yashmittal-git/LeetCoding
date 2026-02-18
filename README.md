@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yashmittal-git/LeetCoding/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/yashmittal-git/LeetCoding/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/yashmittal-git/LeetCoding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/yashmittal-git/LeetCoding/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashmittal-git/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/yashmittal-git/LeetCoding/tree/master/0139-word-break) |
@@ -62,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/yashmittal-git/LeetCoding/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/yashmittal-git/LeetCoding/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yashmittal-git/LeetCoding/tree/master/0242-valid-anagram) |
 ## Two Pointers

@@ -44,6 +44,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashmittal-git/LeetCoding/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashmittal-git/LeetCoding/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/yashmittal-git/LeetCoding/tree/master/0155-min-stack) |
 ## Linked List
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yashmittal-git/LeetCoding/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/yashmittal-git/LeetCoding/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |

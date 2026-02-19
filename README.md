@@ -9,6 +9,7 @@
 | [0056-merge-intervals](https://github.com/yashmittal-git/LeetCoding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/yashmittal-git/LeetCoding/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/yashmittal-git/LeetCoding/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashmittal-git/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/yashmittal-git/LeetCoding/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashmittal-git/LeetCoding/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashmittal-git/LeetCoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/yashmittal-git/LeetCoding/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/yashmittal-git/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/yashmittal-git/LeetCoding/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/yashmittal-git/LeetCoding/tree/master/0242-valid-anagram) |
@@ -91,6 +93,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0226-invert-binary-tree) |
@@ -115,6 +118,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0079-word-search) |
 | [0542-01-matrix](https://github.com/yashmittal-git/LeetCoding/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
 ## Binary Search
@@ -179,4 +183,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/0133-clone-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

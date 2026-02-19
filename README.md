@@ -13,6 +13,7 @@
 | [0139-word-break](https://github.com/yashmittal-git/LeetCoding/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashmittal-git/LeetCoding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/yashmittal-git/LeetCoding/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/yashmittal-git/LeetCoding/tree/master/0238-product-of-array-except-self) |
 | [0542-01-matrix](https://github.com/yashmittal-git/LeetCoding/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
@@ -162,4 +163,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/yashmittal-git/LeetCoding/tree/master/0139-word-break) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/yashmittal-git/LeetCoding/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

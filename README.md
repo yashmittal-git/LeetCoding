@@ -20,6 +20,7 @@
 | [0542-01-matrix](https://github.com/yashmittal-git/LeetCoding/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yashmittal-git/LeetCoding/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashmittal-git/LeetCoding/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@
 | [0383-ransom-note](https://github.com/yashmittal-git/LeetCoding/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/yashmittal-git/LeetCoding/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashmittal-git/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yashmittal-git/LeetCoding/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [0139-word-break](https://github.com/yashmittal-git/LeetCoding/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/yashmittal-git/LeetCoding/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/yashmittal-git/LeetCoding/tree/master/0542-01-matrix) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yashmittal-git/LeetCoding/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Sorting
 |  |
 | ------- |

@@ -1,7 +1,6 @@
 class Solution:
     def minExtraChar(self, s: str, dictionary: List[str]) -> int:
         words = set(dictionary)
-        print(words)
         dp = [[51 for _ in range(len(s) + 1)] for _ in range(len(s) + 1)]
 
         def minExtraCharIndex(i, j):
@@ -14,7 +13,6 @@ class Solution:
             minExtra = 1 + minExtraCharIndex(i+1,j)
             for idx in range(i+1,j):
                 minExtra = min(minExtra, minExtraCharIndex(i,idx) + minExtraCharIndex(idx,j))
-            print(i,j,minExtra)
             dp[i][j] = minExtra
             return minExtra
 

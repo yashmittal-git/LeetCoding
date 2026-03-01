@@ -96,6 +96,7 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0226-invert-binary-tree) |
@@ -113,6 +115,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/yashmittal-git/LeetCoding/tree/master/0322-coin-change) |
@@ -121,6 +124,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |

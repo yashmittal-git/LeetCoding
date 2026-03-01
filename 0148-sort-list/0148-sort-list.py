@@ -27,15 +27,8 @@ class Solution:
                 curr.next = l2
                 l2 = l2.next
             curr = curr.next
-        while l1:
-            curr.next = l1
-            curr = curr.next
-            l1 = l1.next
-        while l2:
-            curr.next = l2
-            curr = curr.next
-            l2=l2.next
-
+        
+        curr.next = l1 if l1 else l2
         return ll.next
         
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:

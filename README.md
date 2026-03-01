@@ -61,6 +61,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/yashmittal-git/LeetCoding/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/yashmittal-git/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/yashmittal-git/LeetCoding/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/yashmittal-git/LeetCoding/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/yashmittal-git/LeetCoding/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -83,6 +84,7 @@
 | [0015-3sum](https://github.com/yashmittal-git/LeetCoding/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/yashmittal-git/LeetCoding/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yashmittal-git/LeetCoding/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/yashmittal-git/LeetCoding/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yashmittal-git/LeetCoding/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yashmittal-git/LeetCoding/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -92,6 +94,7 @@
 | [0075-sort-colors](https://github.com/yashmittal-git/LeetCoding/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/yashmittal-git/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yashmittal-git/LeetCoding/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/yashmittal-git/LeetCoding/tree/master/0148-sort-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashmittal-git/LeetCoding/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Tree
 |  |
@@ -174,6 +177,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashmittal-git/LeetCoding/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/yashmittal-git/LeetCoding/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yashmittal-git/LeetCoding/tree/master/0169-majority-element) |
 ## Design
 |  |
@@ -209,4 +213,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashmittal-git/LeetCoding/tree/master/2149-rearrange-array-elements-by-sign) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/yashmittal-git/LeetCoding/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

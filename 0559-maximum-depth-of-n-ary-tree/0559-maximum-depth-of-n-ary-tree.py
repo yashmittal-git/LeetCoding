@@ -10,10 +10,17 @@ class Solution:
     def maxDepth(self, root: 'Node') -> int:
         if not root:
             return 0
-        d = 0
-        if root and root.children:
-            for child in root.children:
-                d = max(d, self.maxDepth(child))
         
-        return d+1
+        maxDepth = 0
+        q = [root]
+
+        while q:
+            maxDepth = maxDepth + 1
+            nq = []
+            for node in q:
+                for child in node.children:
+                    nq.append(child)
+            q = nq
+        
+        return maxDepth
         

@@ -101,6 +101,7 @@
 | [0226-invert-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0226-invert-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -120,6 +122,7 @@
 | [0226-invert-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/yashmittal-git/LeetCoding/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/yashmittal-git/LeetCoding/tree/master/0542-01-matrix) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |

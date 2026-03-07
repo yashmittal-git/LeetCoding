@@ -6,22 +6,16 @@
 #         self.right = right
 class Solution:
     count = 0
-
-    def kSmallest(self, root, k):
+    def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
         if not root:
             return None
-        left = self.kSmallest(root.left, k)
-        if left:
+        left = self.kthSmallest(root.left, k)
+        if left is not None:
             return left
         self.count = self.count + 1
         if self.count == k:
-            return root
-        right = self.kSmallest(root.right, k)
-        if right:
+            return root.val
+        right = self.kthSmallest(root.right, k)
+        if right is not None:
             return right
-
-    def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        if not root:
-            return
-        return self.kSmallest(root, k).val
         

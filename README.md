@@ -15,6 +15,7 @@
 | [0139-word-break](https://github.com/yashmittal-git/LeetCoding/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashmittal-git/LeetCoding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/yashmittal-git/LeetCoding/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/yashmittal-git/LeetCoding/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/yashmittal-git/LeetCoding/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/yashmittal-git/LeetCoding/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/yashmittal-git/LeetCoding/tree/master/0542-01-matrix) |
@@ -122,6 +123,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/yashmittal-git/LeetCoding/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashmittal-git/LeetCoding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -134,6 +136,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/yashmittal-git/LeetCoding/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/yashmittal-git/LeetCoding/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/yashmittal-git/LeetCoding/tree/master/0542-01-matrix) |
@@ -154,6 +157,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/yashmittal-git/LeetCoding/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/yashmittal-git/LeetCoding/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
 ## Binary Search
@@ -241,4 +245,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yashmittal-git/LeetCoding/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yashmittal-git/LeetCoding/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashmittal-git/LeetCoding/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/yashmittal-git/LeetCoding/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yashmittal-git/LeetCoding/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashmittal-git/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/yashmittal-git/LeetCoding/tree/master/0139-word-break) |
@@ -173,6 +174,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/yashmittal-git/LeetCoding/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yashmittal-git/LeetCoding/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashmittal-git/LeetCoding/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Memoization
@@ -231,4 +233,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yashmittal-git/LeetCoding/tree/master/0148-sort-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/yashmittal-git/LeetCoding/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

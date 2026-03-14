@@ -7,26 +7,18 @@ class Solution:
 
         visited = set()
 
-        components = defaultdict(list)
-
-        def dfs(node, parent):
+        def dfs(node, parent, count):
             visited.add(node)
             for child in adjList[node]:
                 if child not in visited:
-                    components[parent].append(child)
-                    dfs(child, parent)
+                    count = 1 + dfs(child, parent, count)
+            return count
 
+        pairs = 0
         for node in range(n):
             if node not in visited:
-                dfs(node, node)
-                if node not in components:
-                    components[node] = []
-        sizes = []
-        for key, val in components.items():
-            sizes.append(1+len(val))
+                size = dfs(node, node, 1)
+                n = n - size
+                pairs = pairs + (n*size)
         
-        pairs = 0
-        for size in sizes:
-            n = n - size
-            pairs = pairs + (n*size)
         return pairs

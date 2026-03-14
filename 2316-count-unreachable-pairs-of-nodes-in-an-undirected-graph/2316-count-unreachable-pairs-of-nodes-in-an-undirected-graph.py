@@ -27,6 +27,7 @@ class Solution:
     def countPairs(self, n: int, edges: List[List[int]]) -> int:
         uf = UnionFind(n)
         components = defaultdict(int)
+        pairs = int(n * (n-1) / 2)
         for edge in edges:
             uf.union(edge[0],edge[1])
         
@@ -34,10 +35,8 @@ class Solution:
             parent = uf.find(node)
             components[parent] = components[parent] + 1
         
-        pairs = 0
         for component, size in components.items():
-            n = n - size
-            pairs = pairs + size*n
+            pairs = pairs - int((size * (size-1))/2)
         
         return pairs
         

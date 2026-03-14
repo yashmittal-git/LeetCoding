@@ -134,6 +134,7 @@
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/1971-find-if-path-exists-in-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/1971-find-if-path-exists-in-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -236,6 +238,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/0133-clone-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/1971-find-if-path-exists-in-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Backtracking
 |  |
 | ------- |
@@ -258,4 +261,5 @@
 | [0200-number-of-islands](https://github.com/yashmittal-git/LeetCoding/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/yashmittal-git/LeetCoding/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/1971-find-if-path-exists-in-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 <!---LeetCode Topics End-->

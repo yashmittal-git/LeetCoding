@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/yashmittal-git/LeetCoding/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/yashmittal-git/LeetCoding/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/yashmittal-git/LeetCoding/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/yashmittal-git/LeetCoding/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yashmittal-git/LeetCoding/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -129,6 +130,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0695-max-area-of-island](https://github.com/yashmittal-git/LeetCoding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/1971-find-if-path-exists-in-graph) |
@@ -142,6 +144,7 @@
 | [0322-coin-change](https://github.com/yashmittal-git/LeetCoding/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/yashmittal-git/LeetCoding/tree/master/0542-01-matrix) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0695-max-area-of-island](https://github.com/yashmittal-git/LeetCoding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/1971-find-if-path-exists-in-graph) |
@@ -161,6 +164,7 @@
 | [0079-word-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/yashmittal-git/LeetCoding/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/yashmittal-git/LeetCoding/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/yashmittal-git/LeetCoding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
 ## Binary Search
 |  |
@@ -252,5 +256,6 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yashmittal-git/LeetCoding/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/yashmittal-git/LeetCoding/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->

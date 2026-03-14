@@ -1,24 +1,34 @@
 class Solution:
     def countPairs(self, n: int, edges: List[List[int]]) -> int:
+
         adjList = defaultdict(list)
+
         for edge in edges:
             adjList[edge[0]].append(edge[1])
             adjList[edge[1]].append(edge[0])
-
+        
         visited = set()
 
-        def dfs(node, parent, count):
+        def bfs(node):
+            count = 0
+            q = [node]
             visited.add(node)
-            for child in adjList[node]:
-                if child not in visited:
-                    count = 1 + dfs(child, parent, count)
+            while q:
+                node = q.pop()
+                count = count + 1
+
+                for child in adjList[node]:
+                    if child not in visited:
+                        visited.add(child)
+                        q.append(child)
+            
             return count
 
         pairs = 0
-        for node in range(n):
-            if node not in visited:
-                size = dfs(node, node, 1)
-                n = n - size
-                pairs = pairs + (n*size)
+        for i in range(n):
+            if i not in visited:
+                count = bfs(i)
+                n = n - count
+                pairs = pairs + n*count
         
         return pairs

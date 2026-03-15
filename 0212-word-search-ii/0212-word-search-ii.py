@@ -19,10 +19,7 @@ class Trie:
             curr = curr.children[char]
         return curr.word == word
     
-    def checkWords(self, board, i, j, wordsfromij, curr = None):
-        m = len(board)
-        n = len(board[0])
-        
+    def checkWords(self, board, i, j, wordsfromij, m, n, curr = None):        
         if not curr:
             curr = self
         
@@ -42,7 +39,7 @@ class Trie:
             i1 = i + direction[0]
             j1 = j + direction[1]
             if i1>=0 and i1 <m and j1 >=0 and j1 <n:
-                self.checkWords(board, i1, j1, wordsfromij, curr.children[letter])
+                self.checkWords(board, i1, j1, wordsfromij, m, n, curr.children[letter])
         
         board[i][j] = letter
 
@@ -61,7 +58,7 @@ class Solution:
         for i in range(m):
             for j in range(n):
                 if board[i][j] in trie.children:
-                    trie.checkWords(board, i, j, ans)
+                    trie.checkWords(board, i, j, ans, m, n)
 
         return ans
         

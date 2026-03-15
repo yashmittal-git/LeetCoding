@@ -16,6 +16,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashmittal-git/LeetCoding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/yashmittal-git/LeetCoding/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/yashmittal-git/LeetCoding/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/yashmittal-git/LeetCoding/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/yashmittal-git/LeetCoding/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/yashmittal-git/LeetCoding/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/yashmittal-git/LeetCoding/tree/master/0542-01-matrix) |
@@ -51,6 +52,7 @@
 | [0125-valid-palindrome](https://github.com/yashmittal-git/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/yashmittal-git/LeetCoding/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/yashmittal-git/LeetCoding/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/yashmittal-git/LeetCoding/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/yashmittal-git/LeetCoding/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/yashmittal-git/LeetCoding/tree/master/0409-longest-palindrome) |
@@ -165,6 +167,7 @@
 | ------- |
 | [0079-word-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/yashmittal-git/LeetCoding/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/yashmittal-git/LeetCoding/tree/master/0212-word-search-ii) |
 | [0542-01-matrix](https://github.com/yashmittal-git/LeetCoding/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/yashmittal-git/LeetCoding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
@@ -228,6 +231,7 @@
 | ------- |
 | [0139-word-break](https://github.com/yashmittal-git/LeetCoding/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/yashmittal-git/LeetCoding/tree/master/0212-word-search-ii) |
 | [2707-extra-characters-in-a-string](https://github.com/yashmittal-git/LeetCoding/tree/master/2707-extra-characters-in-a-string) |
 ## Prefix Sum
 |  |
@@ -243,6 +247,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/yashmittal-git/LeetCoding/tree/master/0212-word-search-ii) |
 ## Simulation
 |  |
 | ------- |

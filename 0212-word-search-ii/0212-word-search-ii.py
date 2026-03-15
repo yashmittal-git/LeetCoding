@@ -19,32 +19,32 @@ class Trie:
             curr = curr.children[char]
         return curr.word == word
     
-    def checkWords(self, board, i, j, wordsfromij, visited = None, curr = None):
+    def checkWords(self, board, i, j, wordsfromij, curr = None):
         m = len(board)
         n = len(board[0])
-
-        if not visited:
-            visited = [[False for _ in range(n)] for _ in range(m)]
         
         if not curr:
             curr = self
         
-        if visited[i][j] or board[i][j] not in curr.children:
-            return False
+        letter = board[i][j]
         
-        if curr.children[board[i][j]].word is not None:
-            wordsfromij.append(curr.children[board[i][j]].word)
+        if letter not in curr.children:
+            return
+        
+        if curr.children[letter].word is not None:
+            wordsfromij.append(curr.children[letter].word)
+            curr.children[letter].word = None
         
         directions = [(-1,0),(0,-1),(1,0),(0,1)]
-        visited[i][j] = True
+        board[i][j] = "0"
 
         for direction in directions:
             i1 = i + direction[0]
             j1 = j + direction[1]
             if i1>=0 and i1 <m and j1 >=0 and j1 <n:
-                self.checkWords(board, i1, j1, wordsfromij, visited, curr.children[board[i][j]])
+                self.checkWords(board, i1, j1, wordsfromij, curr.children[letter])
         
-        visited[i][j] = False
+        board[i][j] = letter
 
 
 class Solution:
@@ -56,15 +56,12 @@ class Solution:
         m = len(board)
         n = len(board[0])
 
-        ans = set()
+        ans = []
 
         for i in range(m):
             for j in range(n):
                 if board[i][j] in trie.children:
-                    wordsfromij = []
-                    trie.checkWords(board, i, j, wordsfromij)
-                    for word in wordsfromij:
-                        ans.add(word)
+                    trie.checkWords(board, i, j, ans)
 
-        return list(ans)
+        return ans
         

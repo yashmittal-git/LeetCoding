@@ -42,6 +42,7 @@
 | [0409-longest-palindrome](https://github.com/yashmittal-git/LeetCoding/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashmittal-git/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yashmittal-git/LeetCoding/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2707-extra-characters-in-a-string](https://github.com/yashmittal-git/LeetCoding/tree/master/2707-extra-characters-in-a-string) |
 ## String
 |  |
@@ -119,6 +120,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yashmittal-git/LeetCoding/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yashmittal-git/LeetCoding/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -152,6 +155,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/yashmittal-git/LeetCoding/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yashmittal-git/LeetCoding/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -162,6 +166,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yashmittal-git/LeetCoding/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
 |  |
 | ------- |

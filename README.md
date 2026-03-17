@@ -26,6 +26,7 @@
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yashmittal-git/LeetCoding/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashmittal-git/LeetCoding/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/yashmittal-git/LeetCoding/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2707-extra-characters-in-a-string](https://github.com/yashmittal-git/LeetCoding/tree/master/2707-extra-characters-in-a-string) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@
 | [0409-longest-palindrome](https://github.com/yashmittal-git/LeetCoding/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashmittal-git/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/yashmittal-git/LeetCoding/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yashmittal-git/LeetCoding/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2707-extra-characters-in-a-string](https://github.com/yashmittal-git/LeetCoding/tree/master/2707-extra-characters-in-a-string) |
 ## String
@@ -60,6 +62,7 @@
 | [0409-longest-palindrome](https://github.com/yashmittal-git/LeetCoding/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashmittal-git/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yashmittal-git/LeetCoding/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/yashmittal-git/LeetCoding/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2707-extra-characters-in-a-string](https://github.com/yashmittal-git/LeetCoding/tree/master/2707-extra-characters-in-a-string) |
 ## Stack
 |  |
@@ -223,6 +226,7 @@
 | [0146-lru-cache](https://github.com/yashmittal-git/LeetCoding/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/yashmittal-git/LeetCoding/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0208-implement-trie-prefix-tree) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/yashmittal-git/LeetCoding/tree/master/2227-encrypt-and-decrypt-strings) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -239,6 +243,7 @@
 | [0139-word-break](https://github.com/yashmittal-git/LeetCoding/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/yashmittal-git/LeetCoding/tree/master/0212-word-search-ii) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/yashmittal-git/LeetCoding/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2707-extra-characters-in-a-string](https://github.com/yashmittal-git/LeetCoding/tree/master/2707-extra-characters-in-a-string) |
 ## Prefix Sum
 |  |

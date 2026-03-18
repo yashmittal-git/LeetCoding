@@ -25,6 +25,7 @@
 | [0704-binary-search](https://github.com/yashmittal-git/LeetCoding/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/yashmittal-git/LeetCoding/tree/master/0733-flood-fill) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yashmittal-git/LeetCoding/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1646-get-maximum-in-generated-array](https://github.com/yashmittal-git/LeetCoding/tree/master/1646-get-maximum-in-generated-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashmittal-git/LeetCoding/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/yashmittal-git/LeetCoding/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2707-extra-characters-in-a-string](https://github.com/yashmittal-git/LeetCoding/tree/master/2707-extra-characters-in-a-string) |
@@ -265,6 +266,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1646-get-maximum-in-generated-array](https://github.com/yashmittal-git/LeetCoding/tree/master/1646-get-maximum-in-generated-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashmittal-git/LeetCoding/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Merge Sort
 |  |

@@ -28,6 +28,7 @@
 | [1646-get-maximum-in-generated-array](https://github.com/yashmittal-git/LeetCoding/tree/master/1646-get-maximum-in-generated-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashmittal-git/LeetCoding/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/yashmittal-git/LeetCoding/tree/master/2227-encrypt-and-decrypt-strings) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/yashmittal-git/LeetCoding/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2707-extra-characters-in-a-string](https://github.com/yashmittal-git/LeetCoding/tree/master/2707-extra-characters-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yashmittal-git/LeetCoding/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/yashmittal-git/LeetCoding/tree/master/3668-restore-finishing-order) |
@@ -67,6 +68,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashmittal-git/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yashmittal-git/LeetCoding/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/yashmittal-git/LeetCoding/tree/master/2227-encrypt-and-decrypt-strings) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/yashmittal-git/LeetCoding/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2707-extra-characters-in-a-string](https://github.com/yashmittal-git/LeetCoding/tree/master/2707-extra-characters-in-a-string) |
 ## Stack
 |  |
@@ -254,6 +256,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yashmittal-git/LeetCoding/tree/master/0238-product-of-array-except-self) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/yashmittal-git/LeetCoding/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Graph Theory
 |  |
 | ------- |

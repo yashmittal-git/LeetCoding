@@ -28,6 +28,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashmittal-git/LeetCoding/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/yashmittal-git/LeetCoding/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2707-extra-characters-in-a-string](https://github.com/yashmittal-git/LeetCoding/tree/master/2707-extra-characters-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yashmittal-git/LeetCoding/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [0062-unique-paths](https://github.com/yashmittal-git/LeetCoding/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yashmittal-git/LeetCoding/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashmittal-git/LeetCoding/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yashmittal-git/LeetCoding/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Memoization
 |  |
 | ------- |

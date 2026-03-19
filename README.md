@@ -28,6 +28,7 @@
 | [1646-get-maximum-in-generated-array](https://github.com/yashmittal-git/LeetCoding/tree/master/1646-get-maximum-in-generated-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashmittal-git/LeetCoding/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/yashmittal-git/LeetCoding/tree/master/2227-encrypt-and-decrypt-strings) |
+| [2364-count-number-of-bad-pairs](https://github.com/yashmittal-git/LeetCoding/tree/master/2364-count-number-of-bad-pairs) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/yashmittal-git/LeetCoding/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2707-extra-characters-in-a-string](https://github.com/yashmittal-git/LeetCoding/tree/master/2707-extra-characters-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yashmittal-git/LeetCoding/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -49,6 +50,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashmittal-git/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/yashmittal-git/LeetCoding/tree/master/2227-encrypt-and-decrypt-strings) |
+| [2364-count-number-of-bad-pairs](https://github.com/yashmittal-git/LeetCoding/tree/master/2364-count-number-of-bad-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yashmittal-git/LeetCoding/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2707-extra-characters-in-a-string](https://github.com/yashmittal-git/LeetCoding/tree/master/2707-extra-characters-in-a-string) |
 | [3668-restore-finishing-order](https://github.com/yashmittal-git/LeetCoding/tree/master/3668-restore-finishing-order) |
@@ -201,6 +203,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/yashmittal-git/LeetCoding/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/yashmittal-git/LeetCoding/tree/master/0383-ransom-note) |
+| [2364-count-number-of-bad-pairs](https://github.com/yashmittal-git/LeetCoding/tree/master/2364-count-number-of-bad-pairs) |
 ## Interactive
 |  |
 | ------- |
@@ -211,6 +214,7 @@
 | [0062-unique-paths](https://github.com/yashmittal-git/LeetCoding/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yashmittal-git/LeetCoding/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashmittal-git/LeetCoding/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2364-count-number-of-bad-pairs](https://github.com/yashmittal-git/LeetCoding/tree/master/2364-count-number-of-bad-pairs) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yashmittal-git/LeetCoding/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Memoization
 |  |

@@ -115,6 +115,7 @@
 | [0148-sort-list](https://github.com/yashmittal-git/LeetCoding/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yashmittal-git/LeetCoding/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yashmittal-git/LeetCoding/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/yashmittal-git/LeetCoding/tree/master/0295-find-median-from-data-stream) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0125-valid-palindrome](https://github.com/yashmittal-git/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yashmittal-git/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/yashmittal-git/LeetCoding/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/yashmittal-git/LeetCoding/tree/master/0295-find-median-from-data-stream) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashmittal-git/LeetCoding/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Tree
 |  |
@@ -246,6 +248,7 @@
 | [0146-lru-cache](https://github.com/yashmittal-git/LeetCoding/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/yashmittal-git/LeetCoding/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashmittal-git/LeetCoding/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/yashmittal-git/LeetCoding/tree/master/0295-find-median-from-data-stream) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/yashmittal-git/LeetCoding/tree/master/2227-encrypt-and-decrypt-strings) |
 ## Doubly-Linked List
 |  |
@@ -311,8 +314,13 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashmittal-git/LeetCoding/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/yashmittal-git/LeetCoding/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/yashmittal-git/LeetCoding/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/yashmittal-git/LeetCoding/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/yashmittal-git/LeetCoding/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
